@@ -1,0 +1,12 @@
+{
+  "name": "web2-auth-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gitlab-az1/web2-auth-lib.git",
+  "author": "gitlab-az1 <gitlab.az1@gmail.com>",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "cryptx-sdk": "^1.2.3",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
